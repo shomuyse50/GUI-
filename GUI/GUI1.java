@@ -3,7 +3,7 @@ import java.awt.event.*;
 import javax.swing.*;
 
 
-public class GUI{
+public class GUI1{
 	public static void main(String[] args) {
 		AlohaMan am = new AlohaMan();
 	}
